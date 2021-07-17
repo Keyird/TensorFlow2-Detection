@@ -19,6 +19,9 @@ From this repository, you can learn to build some classic object detection frame
 - 我的博客：[【AI 菌】的csdn](https://blog.csdn.net/wjinjie)
 
 ## Predict-Show
-![YOLOv4-Predict]()
+![YOLOv4-Predict](https://github.com/Keyird/TensorFlow2-Detection/blob/main/YOLOv4/img_out/bdd.jpg)
+
+![YOLOv4-Predict](https://github.com/Keyird/TensorFlow2-Detection/blob/main/YOLOv4/img_out/street.png)
+
 
 
