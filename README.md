@@ -21,7 +21,6 @@ From this repository, you can learn to build some classic object detection frame
 ## Predict-Show
 ![YOLOv4-Predict](https://github.com/Keyird/TensorFlow2-Detection/blob/main/YOLOv4/img_out/bdd.jpg)
 
-![YOLOv4-Predict](https://github.com/Keyird/TensorFlow2-Detection/blob/main/YOLOv4/img_out/street.png)
 
 
 
