@@ -27,3 +27,6 @@ faster-rcnn
 - 根据需要更改train.py文件中的anchors_size ( 这一步可选择性跳过，会影响检测效果)
 - 运行train.py进行训练，训练完成后，生成的模型默认存放在logs文件下，选择合适的模型最为最终的模型。
 - 修改frcnn.py中的model_path，更改为训练好的最终的模型的路径。
+
+### （3）数据集与预训练模型下载链接
+在文中获取：[TensorFlow2深度学习实战（十七）：目标检测算法 Faster R-CNN 实战](blog.csdn.net/wjinjie/article/details/124199514)
