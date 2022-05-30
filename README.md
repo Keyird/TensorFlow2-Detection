@@ -3,7 +3,7 @@ From this repository, you can learn to build some classic object detection frame
 
 ## Object-Detection-Tasks
 - RCNN Series （updating）
-- SSD （updating）  
+- SSD （finished）  
 - YOLOv4 （finished）
 - YOLOv4-tiny (updating)
 
