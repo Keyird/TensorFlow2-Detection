@@ -29,4 +29,4 @@ yolov4-tiny
 - 修改frcnn.py中的model_path，更改为训练好的最终的模型的路径。
 
 ### 3、数据集与预训练模型下载链接
-在文中获取：[TensorFlow2深度学习实战（十七）：目标检测算法 Faster R-CNN 实战](https://blog.csdn.net/wjinjie/article/details/124199514?spm=1001.2014.3001.5501)
+在文中获取：[TensorFlow2深度学习实战（十八）：目标检测算法YOLOv4-Tiny实战](https://ai-wx.blog.csdn.net/article/details/124985468)
