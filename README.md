@@ -2,10 +2,10 @@
 From this repository, you can learn to build some classic object detection frameworks from zero to one! 
 
 ## Object-Detection-Tasks
-- RCNN Series （updating）
-- SSD （finished）  
+- Faster-RCNN （finished）
+- SSD （updating）  
 - YOLOv4 （finished）
-- YOLOv4-tiny (updating)
+- YOLOv4-tiny (finished)
 
 ## Environmental
  - Anaconda3
